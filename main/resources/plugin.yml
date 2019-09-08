@@ -1,0 +1,6 @@
+name: NoExplosionsPlugin
+version: ${project.version}
+main: me.fyronfd.noexplosionsplugin.NoExplosionsPlugin
+api-version: 1.13
+authors: [FyronFD]
+description: Prevents explosions in defined areas
